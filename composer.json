@@ -1,5 +1,5 @@
 {
-    "name": "bulforce/ext-direct",
+    "name": "lucasromanojf/ext-direct",
     "description": "Laravel ExtJS/Sencha direct provider",
     "keywords": ["extjs", "extdirect", "laravel4"],
     "authors": [
