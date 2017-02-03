@@ -14,9 +14,9 @@ class ExtDirect
     static public $api_classes = array();
 
     /**
-     * @var int Ajax timeout in seconds
+     * @var int Ajax timeout in milliseconds
      */
-    static public $timeout = 30;
+    static public $timeout = 30000;
 
     /**
      * @var array   Name of the methods to be flagged as "formHandler = true" (use "class::method" string format)
