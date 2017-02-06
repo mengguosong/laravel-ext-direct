@@ -37,7 +37,7 @@ You **MUST** edit the config.php file:
 return array(
     'namespace' => 'Ext.rpc',
     'descriptor' => 'Ext.rpc.REMOTING_API',
-    'timeout' => 30,
+    'timeout' => 30000, // millisecond
     'debug' => true,
     'api_classes' => array(
         'Items' => 'ItemsController'
